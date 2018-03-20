@@ -42,5 +42,7 @@ header.startup hr {
 	background-color: lightblue;
 	border-color: lightblue;
 	border-width: 7px;
+	cursor:pointer;
 	transition: 0.2s;
+	
 }
