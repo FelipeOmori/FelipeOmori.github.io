@@ -1,0 +1,46 @@
+body,
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+
+header.startup {
+	background: url(vashishtha-jogi-101218-unsplash.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+
+}
+
+header.startup hr {
+	margin-top: 200px;
+ 	margin-bottom: 30px; 
+}
+
+.btn {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	border-radius: 300px;
+}
+
+.btn-outline-secondary {
+	background-color: orange;
+
+}
+
+.btn-x1 {
+	padding: 1rem 2rem; 
+}
+
+.utline-secondary:hover {
+	background-color: lightblue;
+	border-color: lightblue;
+	border-width: 7px;
+	transition: 0.2s;
+}
